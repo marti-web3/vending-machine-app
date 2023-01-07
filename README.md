@@ -3,8 +3,8 @@
 <p>To get started with the Blockchain Vending Machine, follow these steps:</p>
 <ol>
   <li>Ensure that you have the required prerequisites installed on your machine (see next section for details).</li>
-  <li>Clone the repository: <code>git clone https://github.com/your-username/blockchain-vending-machine.git</code></li>
-  <li>Navigate to the project directory: <code>cd blockchain-vending-machine</code></li>
+  <li>Clone the repository: <code>git clone https://github.com/your-username/vending-machine-app.git</code></li>
+  <li>Navigate to the project directory: <code>cd vending-machine-app</code></li>
   <li>Install the dependencies: <code>npm install</code></li>
   <li>Start the development server: <code>npm run dev</code></li>
   <li>Open a browser and navigate to <code>http://localhost:3000</code></li>
